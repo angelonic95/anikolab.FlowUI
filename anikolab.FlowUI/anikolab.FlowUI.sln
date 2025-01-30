@@ -41,5 +41,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		FlowUI.Common\FlowUI.Common.projitems*{69cbf0c9-2b18-4e7c-a855-190f19c0d4c7}*SharedItemsImports = 13
+		FlowUI.Common\FlowUI.Common.projitems*{819c8e94-3e09-4fbe-a3a0-ef2445984557}*SharedItemsImports = 4
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Dalila\source\repos\angelonic95\anikolab.FlowUI\anikolab.FlowUI\Examples\Example.CustomAPI\obj\Debug\Example.CustomAPI.csproj.AssemblyReference.cache
+C:\Users\Dalila\source\repos\angelonic95\anikolab.FlowUI\anikolab.FlowUI\Examples\Example.CustomAPI\obj\Debug\Example.CustomAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dalila\source\repos\angelonic95\anikolab.FlowUI\anikolab.FlowUI\Examples\Example.CustomAPI\bin\Debug\Example.CustomAPI.dll
+C:\Users\Dalila\source\repos\angelonic95\anikolab.FlowUI\anikolab.FlowUI\Examples\Example.CustomAPI\bin\Debug\Example.CustomAPI.pdb
+C:\Users\Dalila\source\repos\angelonic95\anikolab.FlowUI\anikolab.FlowUI\Examples\Example.CustomAPI\obj\Debug\Example.CustomAPI.dll
+C:\Users\Dalila\source\repos\angelonic95\anikolab.FlowUI\anikolab.FlowUI\Examples\Example.CustomAPI\obj\Debug\Example.CustomAPI.pdb

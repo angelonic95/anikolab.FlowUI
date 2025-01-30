@@ -9,5 +9,14 @@
     <Import_RootNamespace>FlowUI.Common</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Builder\BuilderBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\Builder.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\Context.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\IBuilder.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\IContext.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\IsEmptyConfigurationAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\EntityConfiguration.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\NullableObject.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utils\JsonSerializer.cs" />
   </ItemGroup>
 </Project>
