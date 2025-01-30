@@ -47,4 +47,4 @@ For a new form, it is converted to:
 This approach allows the API to be called when the form type changes (e.g., from "new" to "edit").
 - incident.ribbon.js
 
-Uses the JavaScript library in a more direct (flat) way, without making API calls when the form type changes.
+Uses the FlowUI library in a more direct (flat) way, without making API calls when the form type changes.
