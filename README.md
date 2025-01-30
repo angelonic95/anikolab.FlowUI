@@ -8,3 +8,4 @@ This project includes two libraries:
 
 
 The key feature of this solution is that the API is called only once for all buttons, improving performance and reducing redundant calls. It also supports Subgrid optimization and potentially Forms.
+It is ideal for managing feature flags, role-based checks, or configuration entities, optimizing button visibility based on centralized logic.
