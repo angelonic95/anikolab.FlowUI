@@ -16,7 +16,7 @@ Includes an API example structured using the FlowUI library, leveraging builders
 # Web Resources
 - account.ribbon.js
 
-Uses a FlowUI library to retrieve data based on the form type.
+Uses the FlowUI library to retrieve data based on the form type.
 The client processes a JSON that defines both form-specific and global actions.
 Example JSON:
 ```json
