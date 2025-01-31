@@ -55,7 +55,7 @@ Uses the FlowUI library in a more direct (flat) way, without making API calls wh
 # Requirements
 
 - A C# project with a Custom API
-
+- Required input parameters for the FlowUI library: recordId, entityName, actionType
 - A ribbon file where the JavaScript library will be included
 
 # Integration Steps
