@@ -48,3 +48,36 @@ This approach allows the API to be called when the form type changes (e.g., from
 - incident.ribbon.js
 
 Uses the FlowUI library in a more direct (flat) way, without making API calls when the form type changes.
+
+
+# How to use the tool
+
+# Requirements
+
+- A C# project with a Custom API
+
+- A ribbon file where the JavaScript library will be included
+
+# Integration Steps
+
+1. Adding the C# Library
+
+- Integrate the FlowUI library into your C# project.
+
+- Create the necessary builders for your API according to project requirements.
+
+2. Adding the JavaScript Library
+
+- Add the JavaScript library as a dependency in the ribbon file.
+
+- Modify the library to include the name of your Custom API.
+
+- Create a JavaScript method to invoke your API using the FlowUI library.
+
+# Important Notes
+
+It is essential to modify the JavaScript library to specify the correct name of the Custom API before using it.
+
+# Conclusion
+
+By following these steps, you will successfully integrate FlowUI into your Custom API and manage calls via JavaScript in the ribbon file.
