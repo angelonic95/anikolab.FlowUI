@@ -81,3 +81,7 @@ It is essential to modify the JavaScript library to specify the correct name of 
 # Conclusion
 
 By following these steps, you will successfully integrate FlowUI into your Custom API and manage calls via JavaScript in the ribbon file.
+
+# Support the Project
+
+If you found it useful, leave a ⭐️!
